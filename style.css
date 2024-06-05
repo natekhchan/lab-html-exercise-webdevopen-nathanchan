@@ -409,7 +409,7 @@ img.logo {
 	}
   }
 
-@media (max-width: 430px) {	
+@media (max-width: 768px) {	
 	/* Add more responsive styles as needed */
 	.nav-bar ul {
 		flex-wrap: wrap;
